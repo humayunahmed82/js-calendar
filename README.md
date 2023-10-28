@@ -15,6 +15,6 @@ HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and Next.js
 
 The creation of a modern JavaScript-based calendar, called the "JavaScript Calendar," has been a notable development. This calendar employs HTML, Tailwind CSS, and Vanilla JavaScript to deliver its functionality. Its architecture is based on the basics of a calendar but with modern enhancements to improve its performance and usability.
 
-[View Demo](https://hu-c.netlify.app)
+[View Demo](https://ha-calendar.netlify.app/)
 
-[![](https://i.ibb.co/qkpDJK5/calendar.jpg)](https://hu-c.netlify.app)
+[![](https://i.ibb.co/qkpDJK5/calendar.jpg)](https://ha-calendar.netlify.app/)
